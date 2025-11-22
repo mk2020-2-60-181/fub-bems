@@ -1,0 +1,372 @@
+{
+  "101": {
+    "room_id": "101",
+    "course_code": "CSE103",
+    "course_name": "Structured Programming",
+    "schedule": [
+      {"day": "Monday", "time": "08:00-09:30"},
+      {"day": "Wednesday", "time": "09:40-11:10"},
+      {"day": "Friday", "time": "11:20-12:50"}
+    ]
+  },
+  "102": {
+    "room_id": "102",
+    "course_code": "CSE110",
+    "course_name": "Object Oriented Programming",
+    "schedule": [
+      {"day": "Tuesday", "time": "08:00-09:30"},
+      {"day": "Thursday", "time": "09:40-11:10"},
+      {"day": "Saturday", "time": "13:00-14:30"}
+    ]
+  },
+  "103": {
+    "room_id": "103",
+    "course_code": "CSE207",
+    "course_name": "Data Structures",
+    "schedule": [
+      {"day": "Sunday", "time": "14:40-16:10"},
+      {"day": "Monday", "time": "16:20-17:50"},
+      {"day": "Wednesday", "time": "18:00-19:30"}
+    ]
+  },
+  "201": {
+    "room_id": "201",
+    "course_code": "CSE246",
+    "course_name": "Algorithms",
+    "schedule": [
+      {"day": "Tuesday", "time": "11:20-12:50"},
+      {"day": "Thursday", "time": "13:00-14:30"},
+      {"day": "Saturday", "time": "14:40-16:10"}
+    ]
+  },
+  "202": {
+    "room_id": "202",
+    "course_code": "CSE302",
+    "course_name": "Database Systems",
+    "schedule": [
+      {"day": "Monday", "time": "09:40-11:10"},
+      {"day": "Wednesday", "time": "11:20-12:50"},
+      {"day": "Friday", "time": "13:00-14:30"}
+    ]
+  },
+  "203": {
+    "room_id": "203",
+    "course_code": "CSE325",
+    "course_name": "Operating Systems",
+    "schedule": [
+      {"day": "Sunday", "time": "08:00-09:30"},
+      {"day": "Tuesday", "time": "14:40-16:10"},
+      {"day": "Thursday", "time": "16:20-17:50"}
+    ]
+  },
+  "204": {
+    "room_id": "204",
+    "course_code": "CSE345",
+    "course_name": "Digital Logic Design",
+    "schedule": [
+      {"day": "Monday", "time": "13:00-14:30"},
+      {"day": "Wednesday", "time": "14:40-16:10"},
+      {"day": "Friday", "time": "16:20-17:50"}
+    ]
+  },
+  "301": {
+    "room_id": "301",
+    "course_code": "CSE347",
+    "course_name": "Information System Analysis",
+    "schedule": [
+      {"day": "Tuesday", "time": "09:40-11:10"},
+      {"day": "Thursday", "time": "11:20-12:50"},
+      {"day": "Saturday", "time": "08:00-09:30"}
+    ]
+  },
+  "302": {
+    "room_id": "302",
+    "course_code": "CSE360",
+    "course_name": "Computer Architecture",
+    "schedule": [
+      {"day": "Sunday", "time": "16:20-17:50"},
+      {"day": "Monday", "time": "18:00-19:30"},
+      {"day": "Wednesday", "time": "19:40-21:10"}
+    ]
+  },
+  "303": {
+    "room_id": "303",
+    "course_code": "CSE405",
+    "course_name": "Computer Networks",
+    "schedule": [
+      {"day": "Tuesday", "time": "13:00-14:30"},
+      {"day": "Thursday", "time": "14:40-16:10"},
+      {"day": "Saturday", "time": "16:20-17:50"}
+    ]
+  },
+  "304": {
+    "room_id": "304",
+    "course_code": "CSE407",
+    "course_name": "Green Computing",
+    "schedule": [
+      {"day": "Monday", "time": "11:20-12:50"},
+      {"day": "Wednesday", "time": "13:00-14:30"},
+      {"day": "Friday", "time": "14:40-16:10"}
+    ]
+  },
+  "401": {
+    "room_id": "401",
+    "course_code": "CSE412",
+    "course_name": "Software Engineering",
+    "schedule": [
+      {"day": "Sunday", "time": "09:40-11:10"},
+      {"day": "Tuesday", "time": "16:20-17:50"},
+      {"day": "Thursday", "time": "18:00-19:30"}
+    ]
+  },
+  "402": {
+    "room_id": "402",
+    "course_code": "CSE420",
+    "course_name": "Computer Graphics",
+    "schedule": [
+      {"day": "Monday", "time": "14:40-16:10"},
+      {"day": "Wednesday", "time": "16:20-17:50"},
+      {"day": "Friday", "time": "18:00-19:30"}
+    ]
+  },
+  "403": {
+    "room_id": "403",
+    "course_code": "CSE422",
+    "course_name": "Simulation and Modeling",
+    "schedule": [
+      {"day": "Tuesday", "time": "11:20-12:50"},
+      {"day": "Thursday", "time": "13:00-14:30"},
+      {"day": "Saturday", "time": "09:40-11:10"}
+    ]
+  },
+  "404": {
+    "room_id": "404",
+    "course_code": "CSE428",
+    "course_name": "Human Computer Interactions",
+    "schedule": [
+      {"day": "Sunday", "time": "11:20-12:50"},
+      {"day": "Monday", "time": "19:40-21:10"},
+      {"day": "Wednesday", "time": "08:00-09:30"}
+    ]
+  },
+  "501": {
+    "room_id": "501",
+    "course_code": "CSE430",
+    "course_name": "Software Testing",
+    "schedule": [
+      {"day": "Tuesday", "time": "14:40-16:10"},
+      {"day": "Thursday", "time": "16:20-17:50"},
+      {"day": "Saturday", "time": "11:20-12:50"}
+    ]
+  },
+  "502": {
+    "room_id": "502",
+    "course_code": "CSE438",
+    "course_name": "Digital Image Processing",
+    "schedule": [
+      {"day": "Monday", "time": "16:20-17:50"},
+      {"day": "Wednesday", "time": "18:00-19:30"},
+      {"day": "Friday", "time": "19:40-21:10"}
+    ]
+  },
+  "503": {
+    "room_id": "503",
+    "course_code": "CSE442",
+    "course_name": "Microprocessors",
+    "schedule": [
+      {"day": "Sunday", "time": "13:00-14:30"},
+      {"day": "Tuesday", "time": "08:00-09:30"},
+      {"day": "Thursday", "time": "09:40-11:10"}
+    ]
+  },
+  "504": {
+    "room_id": "504",
+    "course_code": "CSE452",
+    "course_name": "Distributed Systems",
+    "schedule": [
+      {"day": "Monday", "time": "11:20-12:50"},
+      {"day": "Wednesday", "time": "13:00-14:30"},
+      {"day": "Friday", "time": "14:40-16:10"}
+    ]
+  },
+  "601": {
+    "room_id": "601",
+    "course_code": "CSE460",
+    "course_name": "Cryptography",
+    "schedule": [
+      {"day": "Tuesday", "time": "16:20-17:50"},
+      {"day": "Thursday", "time": "18:00-19:30"},
+      {"day": "Saturday", "time": "13:00-14:30"}
+    ]
+  },
+  "602": {
+    "room_id": "602",
+    "course_code": "CSE471",
+    "course_name": "Compiler Design",
+    "schedule": [
+      {"day": "Sunday", "time": "14:40-16:10"},
+      {"day": "Monday", "time": "08:00-09:30"},
+      {"day": "Wednesday", "time": "09:40-11:10"}
+    ]
+  },
+  "603": {
+    "room_id": "603",
+    "course_code": "CSE474",
+    "course_name": "Pattern Recognition",
+    "schedule": [
+      {"day": "Tuesday", "time": "11:20-12:50"},
+      {"day": "Thursday", "time": "13:00-14:30"},
+      {"day": "Saturday", "time": "14:40-16:10"}
+    ]
+  },
+  "604": {
+    "room_id": "604",
+    "course_code": "CSE475",
+    "course_name": "Machine Learning",
+    "schedule": [
+      {"day": "Monday", "time": "13:00-14:30"},
+      {"day": "Wednesday", "time": "14:40-16:10"},
+      {"day": "Friday", "time": "16:20-17:50"}
+    ]
+  },
+  "701": {
+    "room_id": "701",
+    "course_code": "CSE477",
+    "course_name": "Data Mining",
+    "schedule": [
+      {"day": "Sunday", "time": "16:20-17:50"},
+      {"day": "Tuesday", "time": "18:00-19:30"},
+      {"day": "Thursday", "time": "19:40-21:10"}
+    ]
+  },
+  "702": {
+    "room_id": "702",
+    "course_code": "CSE479",
+    "course_name": "Web Programming",
+    "schedule": [
+      {"day": "Monday", "time": "09:40-11:10"},
+      {"day": "Wednesday", "time": "11:20-12:50"},
+      {"day": "Friday", "time": "13:00-14:30"}
+    ]
+  },
+  "703": {
+    "room_id": "703",
+    "course_code": "CSE481",
+    "course_name": "Nature-Inspired Computing",
+    "schedule": [
+      {"day": "Tuesday", "time": "13:00-14:30"},
+      {"day": "Thursday", "time": "14:40-16:10"},
+      {"day": "Saturday", "time": "16:20-17:50"}
+    ]
+  },
+  "704": {
+    "room_id": "704",
+    "course_code": "CSE487",
+    "course_name": "Cyber Security",
+    "schedule": [
+      {"day": "Sunday", "time": "08:00-09:30"},
+      {"day": "Monday", "time": "11:20-12:50"},
+      {"day": "Wednesday", "time": "13:00-14:30"}
+    ]
+  },
+  "801": {
+    "room_id": "801",
+    "course_code": "CSE489",
+    "course_name": "Mobile Programming",
+    "schedule": [
+      {"day": "Tuesday", "time": "09:40-11:10"},
+      {"day": "Thursday", "time": "11:20-12:50"},
+      {"day": "Saturday", "time": "08:00-09:30"}
+    ]
+  },
+  "802": {
+    "room_id": "802",
+    "course_code": "CSE491",
+    "course_name": "VLSI Design",
+    "schedule": [
+      {"day": "Sunday", "time": "18:00-19:30"},
+      {"day": "Monday", "time": "14:40-16:10"},
+      {"day": "Wednesday", "time": "16:20-17:50"}
+    ]
+  },
+  "803": {
+    "room_id": "803",
+    "course_code": "CSE492",
+    "course_name": "Robotics",
+    "schedule": [
+      {"day": "Tuesday", "time": "14:40-16:10"},
+      {"day": "Thursday", "time": "16:20-17:50"},
+      {"day": "Saturday", "time": "18:00-19:30"}
+    ]
+  },
+  "804": {
+    "room_id": "804",
+    "course_code": "CSE494",
+    "course_name": "Embedded Systems",
+    "schedule": [
+      {"day": "Monday", "time": "16:20-17:50"},
+      {"day": "Wednesday", "time": "18:00-19:30"},
+      {"day": "Friday", "time": "08:00-09:30"}
+    ]
+  },
+  "901": {
+    "room_id": "901",
+    "course_code": "CSE495",
+    "course_name": "IT Project Management",
+    "schedule": [
+      {"day": "Sunday", "time": "09:40-11:10"},
+      {"day": "Tuesday", "time": "11:20-12:50"},
+      {"day": "Thursday", "time": "13:00-14:30"}
+    ]
+  },
+  "902": {
+    "room_id": "902",
+    "course_code": "CSE106",
+    "course_name": "Discrete Mathematics",
+    "schedule": [
+      {"day": "Monday", "time": "08:00-09:30"},
+      {"day": "Wednesday", "time": "09:40-11:10"},
+      {"day": "Friday", "time": "11:20-12:50"}
+    ]
+  },
+  "903": {
+    "room_id": "903",
+    "course_code": "CSE225",
+    "course_name": "Numerical Methods",
+    "schedule": [
+      {"day": "Tuesday", "time": "16:20-17:50"},
+      {"day": "Thursday", "time": "18:00-19:30"},
+      {"day": "Saturday", "time": "19:40-21:10"}
+    ]
+  },
+  "904": {
+    "room_id": "904",
+    "course_code": null,
+    "course_name": null,
+    "schedule": []
+  },
+  "1001": {
+    "room_id": "1001",
+    "course_code": null,
+    "course_name": null,
+    "schedule": []
+  },
+  "1002": {
+    "room_id": "1002",
+    "course_code": null,
+    "course_name": null,
+    "schedule": []
+  },
+  "1003": {
+    "room_id": "1003",
+    "course_code": null,
+    "course_name": null,
+    "schedule": []
+  },
+  "1004": {
+    "room_id": "1004",
+    "course_code": null,
+    "course_name": null,
+    "schedule": []
+  }
+}
