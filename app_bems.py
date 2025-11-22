@@ -351,6 +351,8 @@ def internal_error(error):
 # ============= STARTUP =============
 
 if __name__ == '__main__':
+    import os
+    
     print("=" * 60)
     print("🏢 FUB Building Energy Management System (BEMS)")
     print("=" * 60)
@@ -358,12 +360,14 @@ if __name__ == '__main__':
     print(f"📅 Schedules loaded for: 35 active classes")
     print(f"🔄 Background data collection: Every 60 seconds")
     print(f"🎛️  Individual room control: ON/OFF switches available")
-    print(f"🌐 Dashboard: http://127.0.0.1:5000")
-    print(f"⏸  Pause/Resume: Use buttons in dashboard")
     print("=" * 60)
     
     # Record initial data
     record_building_data()
     
+    # Get port from environment (Render assigns this)
+    port = int(os.environ.get('PORT', 5000))
+    
     # Run Flask app
-    app.run(debug=True, use_reloader=False)
+    app.run(host='0.0.0.0', port=port, debug=False)
+reloader=False)
