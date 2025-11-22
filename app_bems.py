@@ -5,6 +5,7 @@ import sqlite3
 import json
 import pytz
 import simulate_data
+import os
 
 app = Flask(__name__)
 
@@ -351,8 +352,6 @@ def internal_error(error):
 # ============= STARTUP =============
 
 if __name__ == '__main__':
-    import os
-    
     print("=" * 60)
     print("🏢 FUB Building Energy Management System (BEMS)")
     print("=" * 60)
@@ -365,9 +364,8 @@ if __name__ == '__main__':
     # Record initial data
     record_building_data()
     
-    # Get port from environment (Render assigns this)
+    # Get port from environment (Render assigns this dynamically)
     port = int(os.environ.get('PORT', 5000))
     
-    # Run Flask app
+    # Run Flask app (Render compatible)
     app.run(host='0.0.0.0', port=port, debug=False)
-reloader=False)
